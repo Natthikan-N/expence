@@ -1,0 +1,24 @@
+.addExpense-container {
+  padding: 5%;
+  height: 100vh;
+  background-color: #555;
+  color: #ccc;
+
+  display: flex;
+  justify-content: center;
+  /* flex-direction: column; */
+}
+
+.addExpense-form-containner {
+  background-color: #444;
+  padding: 1%;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  justify-content: space-around;
+  /* align-items: center; */
+}
+
+/* .addExpense-form-component {
+  margin-bottom: 0.2rem;
+} */
